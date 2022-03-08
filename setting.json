@@ -2,7 +2,7 @@
   "name-web":"anime online",
   "author":"anime",
   "remove-comment-html":true,
-  "target":"https://anoboy.day",
+  "target":"http://anoboy.day",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
