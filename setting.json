@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"anime online",
+  "author":"anime",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://anoboy.mobi",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
